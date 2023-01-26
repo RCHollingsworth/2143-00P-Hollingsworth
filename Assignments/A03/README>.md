@@ -7,4 +7,4 @@
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
 |   1   | https://github.com/RCHollingsworth/2143-00P-Hollingsworth/blob/main/Assignments/A03/Banner | The Banner     |
-|   2   |
+|   2   | https://github.com/RCHollingsworth/2143-00P-Hollingsworth/blob/main/Assignments/A03/code%20comments | Comment Clean Up |
