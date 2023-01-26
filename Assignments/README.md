@@ -2,4 +2,4 @@
 
 |   #   | Folder Link | Assignment Description |
 | :---: | ----------- | ---------------------- |
-|       | https://github.com/RCHollingsworth/2143-00P-Hollingsworth/tree/main/Assignments/A03 |                        |
+|  A03  | https://github.com/RCHollingsworth/2143-00P-Hollingsworth/tree/main/Assignments/A03 | Banner Assignment|
