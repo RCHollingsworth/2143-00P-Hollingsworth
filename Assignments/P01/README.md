@@ -20,5 +20,5 @@ that another programer might need to be aware of when using this program.
 ### Instructions
 
 -Make sure the libraries <iostream> <fstream> and <vector> are included in your software
--Create an input file with random or desired integers 
+-Create an input file called input.dat with random or desired integers 
 -Do not worry about the output file as the program will create it for you
