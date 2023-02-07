@@ -14,8 +14,8 @@ that another programer might need to be aware of when using this program.
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
 |   1   |[ main.cpp ](https://github.com/RCHollingsworth/2143-00P-Hollingsworth/blob/main/Assignments/P01/main%20(2).cpp)       | Main driver of my project that creates the vectored linked list and excutes manipulations.      |
-|   2   | [[input.dat](https://github.com/rugbyprof/2143-Object-Oriented-Programming/blob/master/Assignments/04-P01/input.dat) ](https://github.com/RCHollingsworth/2143-00P-Hollingsworth/blob/main/Assignments/P01/infile.dat)      | input file that some of the lists recieve data from        |
-|   2   | [test.out](https://github.com/RCHollingsworth/2143-00P-Hollingsworth/blob/main/Assignments/P01/test.out)        | Output file that all of the results print out to        |
+|   2   | https://github.com/RCHollingsworth/2143-00P-Hollingsworth/blob/main/Assignments/P01/infile.dat   | input file that some of the lists recieve data from        |
+|   3   | [test.out](https://github.com/RCHollingsworth/2143-00P-Hollingsworth/blob/main/Assignments/P01/test.out)        | Output file that all of the results print out to        |
 
 ### Instructions
 
