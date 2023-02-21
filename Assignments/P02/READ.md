@@ -2,10 +2,11 @@
 ### Robert Hollingsworth
 ### Description of Program:
 
-This program takes an already established vectored link list and uses 
-* overrided operators to be able to more easily manipulate the data. What this means 
-* from a potential user perspective is being able to do basic arithmetic between integer
-* data sets of any size. This includes integer data sets that are not the same size.
+This program takes an already established vectored link list and uses overrided operators to be able to more easily 
+manipulate the data. What this means from a potential user perspective is being able to do basic arithmetic between 
+integer data sets of any size. This includes integer data sets that are not the same size. An added functionality is
+that the assignment operator and equallity operator are also added so tat vectored linked lists can be compared to each 
+other and assigned to each other
 ### Files
 
 
