@@ -11,7 +11,7 @@ more complex data structures in the future
 
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   1   |[main.cpp] (#main)     | This is the main driver |
+|   1   |[main.cpp] ([#main](https://github.com/RCHollingsworth/2143-00P-Hollingsworth/blob/4d5403ce37355e5185910106485c66eb7e1e9ca8/Assignments/P03/main%20(3).cpp))     | This is the main driver |
 |   2   | | This file is created by the program |
 ### Instructions
 
