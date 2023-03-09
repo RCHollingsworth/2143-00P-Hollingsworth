@@ -1,0 +1,60 @@
+Robert Hollingsworth
+3/9/2023
+Spring 2143
+
+digraph LinkedList
+{
+rankdir=LR
+graph [bgcolor="yellow", fontsize="20"]
+0 [color="blue", height="3.0", shape="box", style="filled"]
+1 [color="pink", height="1.0", shape="folder", style="filled"]
+2 [color="orange", height="1.5", shape="egg", style="filled"]
+3 [color="red", height="2.0", shape="record", style="filled"]
+4 [color="black", height="1.0", label="Node1", shape="box", style="filled", width="1.0"]
+5 [color="black", height="1.0", label="Node1", shape="box", style="filled", width="1.0"]
+0 -> 1[arrowhead="dot", arrowtail="normal", color="brown", dir="forward", style="normal", weight="0"]
+1 -> 2[arrowhead="normal", arrowtail="normal", color="black", dir="forward", style="normal", weight="0"]
+2 -> 3[arrowhead="icurve", arrowtail="normal", color="black", dir="none", style="normal", weight="0"]
+3 -> 4[arrowhead="inv", arrowtail="normal", color="black", dir="forward", style="normal", weight="0"]
+4 -> 5[arrowhead="vee", arrowtail="normal", color="black", dir="forward", style="normal", weight="0"]
+}
+
+digraph DoublyLL
+{
+rankdir=LR
+graph [bgcolor="white", fontname=""Arial"", fontsize="15", label="Program 3"]
+0 [color="blue", height="3.0", shape="box", style="filled"]
+1 [color="pink", height="1.0", shape="folder", style="filled"]
+2 [color="orange", height="1.5", shape="egg", style="filled"]
+3 [color="red", height="2.0", shape="record", style="filled"]
+0 -> 1[arrowhead="dot", arrowtail="normal", color="purple", dir="forward", style="normal", weight="0"]
+1 -> 0[arrowhead="normal", arrowtail="normal", color="black", dir="forward", style="normal", weight="0"]
+1 -> 2[arrowhead="icurve", arrowtail="normal", color="purple", dir="back", style="normal", weight="0"]
+2 -> 1[arrowhead="inv", arrowtail="normal", color="black", dir="none", style="normal", weight="0"]
+2 -> 3[arrowhead="vee", arrowtail="normal", color="black", dir="forward", style="normal", weight="0"]
+3 -> 2[arrowhead="normal", arrowtail="normal", color="black", dir="forward", style="normal", weight="0"]
+3 -> 4[arrowhead="normal", arrowtail="normal", color="black", dir="forward", style="normal", weight="0"]
+4 -> 3[arrowhead="normal", arrowtail="normal", color="black", dir="forward", style="normal", weight="0"]
+4 -> 5[arrowhead="normal", arrowtail="normal", color="black", dir="forward", style="normal", weight="0"]
+5 -> 4[arrowhead="normal", arrowtail="normal", color="black", dir="forward", style="normal", weight="0"]
+}
+
+digraph BinaryST
+{
+rankdir=LR
+graph [bgcolor="pink", fontsize="15"]
+0 [color="blue", height="3.0", shape="box", style="filled"]
+1 [color="pink", height="1.0", shape="folder", style="filled"]
+2 [color="orange", height="1.5", shape="egg", style="filled"]
+3 [color="red", height="2.0", shape="record", style="filled"]
+4 [color="black", height="1.0", label="Node1", shape="box", style="filled", width="1.0"]
+0 -> 0[arrowhead="dot", arrowtail="normal", color="black", dir="forward", style="normal", weight="0"]
+0 -> 1[arrowhead="normal", arrowtail="normal", color="black", dir="forward", style="normal", weight="0"]
+0 -> 2[arrowhead="icurve", arrowtail="normal", color="black", dir="forward", style="normal", weight="0"]
+1 -> 3[arrowhead="inv", arrowtail="normal", color="red", dir="none", style="normal", weight="0"]
+1 -> 4[arrowhead="vee", arrowtail="normal", color="black", dir="forward", style="normal", weight="0"]
+2 -> 5[arrowhead="normal", arrowtail="normal", color="black", dir="forward", style="normal", weight="0"]
+2 -> 6[arrowhead="normal", arrowtail="normal", color="black", dir="forward", style="normal", weight="0"]
+5 -> 7[arrowhead="normal", arrowtail="normal", color="black", dir="forward", style="normal", weight="0"]
+}
+
