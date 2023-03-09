@@ -15,5 +15,5 @@ more complex data structures in the future
 |   2   | | This file is created by the program |
 ### Instructions
 
--Make sure the libraries <iostream> <fstream> , <string> , <map> , and <vector> are included in your compile
+-Make sure the libraries (<iostream>) (<fstream>) , (<string>) , (<map>) , and (<vector>) are included in your compile
 -Do not worry about the output file as the program will create it for you
