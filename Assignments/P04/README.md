@@ -9,7 +9,7 @@ how many times they wish to roll the dice. It then gives the average of all the 
 
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   1   |[main.py]     | This is the main driver |
+|   1   |[main.py](https://github.com/RCHollingsworth/2143-00P-Hollingsworth/blob/962528fcbd49383be60dbe5f8f98da3d664fe80c/Assignments/P04/main.py)     | This is the main driver |
 |   2   | [dice.py](https://github.com/RCHollingsworth/2143-00P-Hollingsworth/blob/962528fcbd49383be60dbe5f8f98da3d664fe80c/Assignments/P04/dice.py)| This is the file that holds the classes Die and Dice |
 ### Instructions
 
